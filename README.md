@@ -9,7 +9,7 @@ A web application that combines Optical Character Recognition (OCR) with AI text
 - Standalone AI text processing option
 - Modern, responsive web interface
 
-## Prerequisites
+## Must have
 
 - Node.js
 
@@ -17,7 +17,7 @@ A web application that combines Optical Character Recognition (OCR) with AI text
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/YunesAA/Smart-OCR>
+git clone https://github.com/YunesAA/Smart-OCR
 ```
 
 2. Install dependencies:
@@ -51,4 +51,4 @@ http://localhost:3000
 
 ## Author
 
-[YunesAA]
+Yunes Al Akwaa
