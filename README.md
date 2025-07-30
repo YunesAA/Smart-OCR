@@ -26,6 +26,7 @@ npm install
 ```
 
 3. Add your API keys:
+    - Create a .env file with a text editor (e.g., Notepad, TextEdit) and enter your api keys
     - `GROQ_API_KEY`: Get from [Groq dashboard](https://console.groq.com/keys)
     - `OCR_SPACE_API_KEY`: Get from [OCR.space API key page](https://ocr.space/ocrapi)
 
